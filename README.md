@@ -35,4 +35,4 @@
 	<br>
 	<br>
 <div align=center> 
-	<h3> ✨프로젝트aus : Book Web dashboard 개발✨ <h3>
+	<h3> 📌프로젝트명 : Book Web dashboard 개발📌 <h3>
