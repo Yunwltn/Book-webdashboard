@@ -39,6 +39,7 @@
 	<h4> Book Web dashboard 개발 <h4>
 	<h6> 우리나라 평균 독서율을 월별, 연령대별로 통계해보고 책을 읽을 수 있는 전국 북카페와 <h6>
 	<h6> 출판된 책들을 조회할 수 있게 검색 기능을 설정하고 연령대별 인기순으로도 책을 조회할 수 있게 웹대시보드를 개발 <h6>
+	![텍스트]('https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fyhj5292%2F221620059307&psig=AOvVaw0BJfWXsW9QU8QBiCe8Q-yw&ust=1671180586134000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiRxvqe-_sCFQAAAAAdAAAAABAc')
 	<br>
 	<br>
 	<h3> 📌프로젝트 목차📌 <h3>
