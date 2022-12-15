@@ -4,13 +4,8 @@ import numpy as np
 from PIL import Image
 
 def run_book_proposal_app() :
-<<<<<<< HEAD
     st.title('책 검색📚')
     image_url = 'https://images.pexels.com/photos/2041540/pexels-photo-2041540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-=======
-    st.title('책 추천')
-    image_url = 'https://images.pexels.com/photos/1392854/pexels-photo-1392854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
->>>>>>> parent of aa6c9b2 (add)
     st.image(image_url, use_column_width=True)
 
     df = pd.read_csv('data/book_proposal.csv', index_col=0)
