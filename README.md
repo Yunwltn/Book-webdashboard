@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Book_Web_dashboard&fontSize=50" />
 </div>
 <div align=center>
-	<h3> 💗Platforms & Languages💗 <h3>
+	<h3> ✨Platforms & Languages✨ <h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -15,7 +15,7 @@
 	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
 	
 <div align=center>
-	<h3> 💛Tools💛 <h3>
+	<h3> ✨Tools✨ <h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
