@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Book_Web_dashboard&fontSize=50" />
 </div>
 <div align=center>
-	<h3> ✨Platforms & Languages✨ <h3>
+	<h4> ✨Platforms & Languages✨ <h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -15,7 +15,7 @@
 	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
 	
 <div align=center>
-	<h3> ✨Tools✨ <h3>
+	<h4> ✨Tools✨ <h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
@@ -23,11 +23,14 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	
 <div align=center>
-	<h3> ✨SNS✨ <h3>
+	<h4> ✨SNS✨ <h4>
 </div>
 <div align=center>
 	<a href="mailto:yunwltn98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link="mailto:yunwltn98@gmail.com" />
 	<a href="https://coding-jisu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link="https://coding-jisu.tistory.com" />
 
+		
+		
+		
 <div align=center> 
-	<h4> ✨SNS✨ <h4>
+	<h3> ✨SNS✨ <h3>
