@@ -60,3 +60,5 @@ def run_book_proposal_app() :
         choice_AREA = choice_AREA.reset_index()
         st.dataframe(choice_AREA.iloc[: , 2:7])
 
+        
+
