@@ -27,3 +27,4 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
+	<a href="https://coding-jisu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://coding-jisu.tistory.com"/></a>
