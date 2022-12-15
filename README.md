@@ -26,4 +26,5 @@
 	<h3> ✨SNS✨ <h3>
 </div>
 <div align=center>
+	<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link="https://mail.google.com/mail/u/0/#inbox" />
 	<a href="https://coding-jisu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link="https://coding-jisu.tistory.com" />
