@@ -13,7 +13,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
-	
+	<br>
 <div align=center>
 	<h4> ✨Tools✨ <h4>
 </div>
@@ -21,7 +21,7 @@
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	
+	<br>
 <div align=center>
 	<h4> ✨SNS✨ <h4>
 </div>
