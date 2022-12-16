@@ -33,6 +33,7 @@
 	<br>
 	<br>
 </div>
+<http://ec2-3-38-117-95.ap-northeast-2.compute.amazonaws.com:8501/>
 <div align=center> 
 	<h3> 📌프로젝트 명📌 <h3>
 	<h4> Book Web dashboard 개발 <h4>
