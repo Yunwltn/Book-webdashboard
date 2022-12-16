@@ -33,6 +33,7 @@
 	<br>
 	<br>
 <div align=center> 
+---
 	* * *
 	<h3> 📌프로젝트 명📌 <h3>
 	<h4> Book Web dashboard 개발 <h4>
