@@ -41,7 +41,7 @@
 	<br>
 	<img src= 'https://user-images.githubusercontent.com/120348555/207815612-b6d738ba-c375-4798-8e60-934770e686d5.gif'>
 		
-[👉웹대시보드]<http://ec2-3-38-117-95.ap-northeast-2.compute.amazonaws.com:8501/>
+👉웹대시보드 <http://ec2-3-38-117-95.ap-northeast-2.compute.amazonaws.com:8501/>
 </div>	
 <div align=center> 
 	<br>
