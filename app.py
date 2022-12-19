@@ -6,10 +6,9 @@ def main() :
     menu = ['도서관 평균 독서율📚','도서관 정보🔍 ','']
 
     choice = st.sidebar.selectbox('메뉴', menu)    
-    imge_url2 = 'https://images.pexels.com/photos/3268388/pexels-photo-3268388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+    imge_url2 = 'https://images.pexels.com/photos/3747517/pexels-photo-3747517.jpeg?auto=compress&cs=tinysrgb&w=1600'
     imge_url1 = 'https://images.pexels.com/photos/1926988/pexels-photo-1926988.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-    imge_url3 = 'https://images.pexels.com/photos/4068029/pexels-photo-4068029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-
+    imge_url3 = ''
 
     if choice == '도서관 평균 독서율📚' :
         st.sidebar.image(imge_url1)
