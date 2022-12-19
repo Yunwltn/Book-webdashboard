@@ -1,10 +1,9 @@
 import streamlit as st
 from book_read import run_book_read_app
-from book_proposal import run_book_proposal_app
-from bookcafe_stor import run_bookcafe_stor_app
+from library_location import run_library_location_app
 
 def main() :
-    menu = ['도서관 평균 독서율📚','도서관 위치🔍 ','']
+    menu = ['도서관 평균 독서율📚','도서관 정보🔍 ','']
 
     choice = st.sidebar.selectbox('메뉴', menu)    
     imge_url2 = 'https://images.pexels.com/photos/3268388/pexels-photo-3268388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
@@ -17,13 +16,13 @@ def main() :
         run_book_read_app()
         
 
-    elif choice == '도서관 위치🔍 ' :
+    elif choice == '도서관 정보🔍 ' :
         st.sidebar.image(imge_url2)
-        run_book_proposal_app()
+        run_library_location_app()
 
     elif choice == '' :
         st.sidebar.image(imge_url3)
-        run_bookcafe_stor_app()
+        pass
 
 if __name__ == '__main__' :
     main()
