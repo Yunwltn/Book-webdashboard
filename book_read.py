@@ -8,16 +8,18 @@ import seaborn as sb
 
 def run_book_read_app() :
     st.title('우리나라 도서관 평균 독서량 :books:')
+
+    
     st.write('국립중앙도서관의 연간 독서량 파일을 활용하여')
     st.write('우리나라 평균 독서량을 월별, 연령대별, 지역별로 분석했습니다')
-    st.info('2020년도의 월, 지역, 연령, 성별, 회원수, 대출건수, 독서량 컬럼을 사용했습니다')
+    st.info('2020년도의 월, 지역, 연령, 성별, 회원수, 대출건수, 독서량 정보를 사용했습니다')
     image_url = 'https://cdn.pixabay.com/photo/2017/07/02/09/03/books-2463779_960_720.jpg'
     st.image(image_url, use_column_width=True)
 
     df = pd.read_csv('READ_QY_2020.csv',index_col=0)
     st.subheader('')
 
-    status = st.radio('평균 독서량', ['월별 평균','연령대별 평균'])
+    status = st.radio('평균 독서량 데이터 보기', ['월별 평균','연령대별 평균'])
 
     if status == '월별 평균' :
         st.subheader('월별 독서량 평균')
@@ -54,7 +56,7 @@ def run_book_read_app() :
     st.subheader('')
 
     st.subheader('지역별 정보')
-    status = st.radio('지역별로 정보 보기', ['지역별 평균 독서량','지역별 회원수','지역별 대출건수'])
+    status = st.radio('지역별로 데이터 보기', ['지역별 평균 독서량','지역별 회원수','지역별 대출건수'])
 
     if status == '지역별 평균 독서량' :
         AREA_READQY = df.groupby('지역')['독서량'].mean().to_frame()
@@ -62,7 +64,7 @@ def run_book_read_app() :
         AREA_READQY = AREA_READQY.reset_index()
         max_AREA_READQY = AREA_READQY.loc[ AREA_READQY['독서량'] == AREA_READQY['독서량'].max() ]
         st.info('평균 독서량이 가장 높은 지역은 ' + max_AREA_READQY['지역'].tolist()[0] + '입니다')
-        fig3 = px.bar(AREA_READQY, y='독서량', height=600, title= '지역별 평균 독서량', color='독서량', color_continuous_scale='plotly3')
+        fig3 = px.bar(AREA_READQY, x='지역', y='독서량', height=600, title= '지역별 평균 독서량', color='독서량', color_continuous_scale='plotly3')
         st.plotly_chart(fig3)
 
     elif status == '지역별 회원수' :

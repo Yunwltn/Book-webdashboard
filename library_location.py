@@ -9,6 +9,9 @@ import altair as alt
 
 def run_library_location_app() :
     st.title('도서관 정보 :mag:')
+    st.write('국립중앙도서관의 전국 공공도서관의 정보 파일을 활용하여')
+    st.write('전국에 위치한 도서관의 갯수와 각 지역별 위치를 분리하여 검색할 수 있게 만들었습니다')
+    st.info('2022년도의 전국 공공 도서관 정보를 사용했습니다')
     image_url = 'https://cdn.pixabay.com/photo/2016/08/29/21/38/peabody-institute-1629259_960_720.jpg'
     st.image(image_url, use_column_width=True)
 
@@ -21,7 +24,7 @@ def run_library_location_app() :
     st.plotly_chart(fig1)
     st.dataframe(df[['지역', '도서관명', '주소']])
     
-    if st.checkbox('도서관명으로 검색하기') :
+    if st.checkbox('도서관명으로 검색하기:mag:') :
         library_name = st.text_input('검색할 도서관명을 입력해주세요')
         library_name = df.loc[ df['도서관명'].str.contains(library_name) ]
         st.dataframe(library_name[['지역', '도서관명', '주소']])
