@@ -50,15 +50,15 @@
 ---
 
 
-##진행과정
+<h4>진행과정<h4>
 
-Jupyter Notebook에서 데이터 분석
+<h4>Jupyter Notebook에서 데이터 분석<h4>
 1. 데이터파일을 가져와서 사용할 컬럼만 엑세스한 후 컬럼명 변경
 2. Nan데이터 값이 있으면 지도를 만들 때 에러가 발생하므로 Nan값 제거
 3. 차트로 보여줄 데이터 분석(월, 연령, 지역별 데이터)
 4. 입력받은 값으로 지도를 표시할 수 있게 데이터 엑세스
 
-Visual Studio Code에서 Streamlit 라이브러리로 작업
+<h4>Visual Studio Code에서 Streamlit 라이브러리로 작업<h4>
 
 1. 메인 앱 화면 생성
 		
