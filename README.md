@@ -49,3 +49,7 @@
 ---
 				
 진행과정
+
+		
+![1](https://user-images.githubusercontent.com/120348555/208594875-455afcf5-4d5c-43d1-98f7-456af492d932.PNG)
+![2](https://user-images.githubusercontent.com/120348555/208594950-50b6cb16-e6ad-462f-9f06-9fd2fa1ba4b0.PNG)
