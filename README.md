@@ -35,7 +35,7 @@
 	<h4> 국립중앙도서관 도서관 정보(202211)의 도서관명, 주소, 위도, 경도, 지역, 세부지역, 분류 <h4>	
 	<br>
 	<br>
-	<h3> 사용한 라이브러리📑 <h3>	
+	<h3> 사용한 라이브러리 <h3>	
 	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" />
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" />
 	<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
