@@ -33,7 +33,7 @@
 	<br>
 	<br>
 	<h3> 📌사용한 라이브러리📌 <h3>	
-	<h4> streamlit
-	<h4> numpy	
-	<h4> pandas
-	<h4> plotly
+	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" />
+	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" />
+	<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+	<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white" />
