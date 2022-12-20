@@ -27,11 +27,9 @@
 	<https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=7461f23e-8958-417b-be03-7ede86ab760b>
 	<br>
 	<br>
-	<br>
 	<h3> 📌사용한 컬럼📌 <h3>
 	<h4> 국립중앙도서관 연간 독서량(2020)의 월, 지역, 연령, 성벼르 회원수, 대출건수, 독서량 <h4>
 	<h4> 국립중앙도서관 도서관 정보(202211)의 도서관명, 주소, 위도, 경도, 지역, 세부지역, 분류 <h4>	
-	<br>
 	<br>
 	<br>
 	<h3> 📌사용한 라이브러리📌 <h3>	
