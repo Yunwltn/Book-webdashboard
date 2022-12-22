@@ -17,6 +17,7 @@ def run_book_read_app() :
     st.image(image_url, use_column_width=True)
 
     df = pd.read_csv('READ_QY_2020.csv',index_col=0)
+    st.dataframe(df)
     st.subheader('')
 
     status = st.radio('평균 독서량 데이터 보기', ['월별 평균','연령대별 평균'])
