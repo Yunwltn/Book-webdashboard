@@ -27,8 +27,7 @@ def main() :
     df = pd.read_csv('LIBRARY_202211.csv',index_col=0)
     df = df.loc[ df['도서관명'].str.contains(library_input, case=False) ]
     st.sidebar.dataframe(df[['도서관명','주소']])
-    if st.sidebar.button('도서관 정보 더 살펴보기 :mag:') :
-        run_library_location_app()
+    st.sidebar.info('도서관 정보를 더 보고싶다면 상단의 도서관 정보를 클릭해주세요 :mag:')
 
     if choice == '📕 메인화면' :
         run_book_main_app()
