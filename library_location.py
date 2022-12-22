@@ -16,6 +16,7 @@ def run_library_location_app() :
     st.image(image_url, use_column_width=True)
 
     df = pd.read_csv('LIBRARY_202211.csv',index_col=0)
+    st.dataframe(df)
     st.subheader('')
 
     st.subheader('전국 도서관 정보')
