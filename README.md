@@ -29,7 +29,7 @@
 	<h4> 국립중앙도서관 연간 독서량(2020) <h4>
 	<h4> 국립중앙도서관 도서관 정보(202211) <h4>
 
-<https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=7461f23e-8958-417b-be03-7ede86ab760b>
+<https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=center_nl_org>
 </div>	
 <div align=center>
 	<br>
