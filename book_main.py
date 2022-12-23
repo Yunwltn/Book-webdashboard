@@ -21,4 +21,7 @@ def run_book_main_app() :
 
         st.write('국립중앙도서관 도서관 정보(202211)')
         st.dataframe(LIBRARY_df)
+
+        st.write('')
+        st.write('사용한 데이터 주소 ')
         st.info('https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=center_nl_org')
