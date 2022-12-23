@@ -20,8 +20,10 @@ def run_library_location_app() :
     st.subheader('')
 
     st.subheader('전국 도서관 정보')
-    df_count = df['지역'].count()
-    fig1 = px.bar(y= df['지역'], height=600, title= '전국 공공 도서관 갯수 (총 ' + str(df_count) + '개)')
+    area_count = df['지역'].count()
+    df_count = df['지역'].value_counts()
+    df_count = df_count.to_frame().reset_index()
+    fig1 = px.bar(x= df_count['index'], y=df_count['지역'], height=600, title= '전국 공공 도서관 갯수 (총 ' + str(area_count) + '개)')
     st.plotly_chart(fig1)
     st.dataframe(df[['지역', '도서관명', '주소']])
     
@@ -42,5 +44,9 @@ def run_library_location_app() :
     st.map(AREA_choicedf)
     AREAdf = df.loc[ df['지역'] == AREA_choice1 ]
     AREAdf_count = AREAdf['지역'].count()
-    fig2 = px.bar(AREAdf, y= '세부지역', height=600, title= AREA_choice1 + '의 공공 도서관 갯수(총 ' + str(AREAdf_count) + '개)')
+
+    area_count = AREAdf['세부지역'].value_counts()
+    df_count = area_count.to_frame().reset_index()
+    
+    fig2 = px.bar(y= df_count['index'], x=df_count['세부지역'], height=600, title= AREA_choice1 + '의 공공 도서관 갯수(총 ' + str(AREAdf_count) + '개)')
     st.plotly_chart(fig2)
