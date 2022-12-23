@@ -95,12 +95,6 @@
 	
 ---
 
-<div align=center>
-	<br>
-	<a href="mailto:yunwltn98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link="mailto:yunwltn98@gmail.com" />
-	<a href="https://coding-jisu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link="https://coding-jisu.tistory.com" />
-	<br>
-
 
 ![1](https://user-images.githubusercontent.com/120348555/209073474-22e7b49e-749e-47a7-9886-89b6f8ebf59b.PNG)
 ![2](https://user-images.githubusercontent.com/120348555/209073481-cfffbc13-052f-45ff-ade9-062c5d8d3ff5.PNG)
