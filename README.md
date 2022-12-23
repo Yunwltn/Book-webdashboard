@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66CC33,100:a82da&height=200&section=header&text=Book_Web_Dashboard&fontSize=60&animation=twinkling" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66CC33,100:a82da&height=200&section=header&fontColor=FFFFFF&text=Book%20Web%20Dashboard&fontSize=60&animation=twinkling" />
 </div>	
 
 <div align=center>
@@ -108,3 +108,7 @@
 ![3](https://user-images.githubusercontent.com/120348555/209073483-fc529b3c-1597-4eb0-91af-71637132dd36.PNG)
 ![4](https://user-images.githubusercontent.com/120348555/209073486-99f3482d-cb61-4016-aa13-bfaaf682990f.PNG)
 ![5](https://user-images.githubusercontent.com/120348555/209073489-ed5faeaa-df56-46c0-bb71-918361d0f683.PNG)
+
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66CC33,100:a82da&height=100&section=footer&text=Thank%20you&fontSize=50&animation=twinkling" />
+</div>	
