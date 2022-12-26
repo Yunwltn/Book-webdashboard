@@ -20,7 +20,7 @@
 ![literature-3327172_960_720](https://user-images.githubusercontent.com/120348555/209486459-cd740167-eeec-4f98-b492-841446f5a6cc.jpg)
 
 
-👉웹대시보드 주소 <http://ec2-3-38-117-95.ap-northeast-2.compute.amazonaws.com:8501/>
+[👉웹대시보드 바로가기](http://ec2-3-38-117-95.ap-northeast-2.compute.amazonaws.com:8501/)
 
 </div>	
 <div align=center> 
