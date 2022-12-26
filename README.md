@@ -73,7 +73,7 @@
 
 <h3>진행과정💬<h3>
 
-<h4>Jupyter Notebook에서 데이터 분석<h4>
+<h4>▶️ Jupyter Notebook에서 데이터 분석<h4>
 	
 <h5>  <h5>
 	
@@ -82,7 +82,7 @@
 - 차트로 보여줄 데이터 분석(월, 연령, 지역별 데이터)
 - 입력받은 값으로 지도를 표시할 수 있게 데이터 엑세스
 
-<h4>Visual Studio Code에서 Streamlit 라이브러리로 작업<h4>
+<h4>▶️ Visual Studio Code에서 Streamlit 라이브러리로 작업<h4>
 
 <h5>1. 메인 앱 화면 생성<h5>
 	
@@ -106,7 +106,7 @@
 - 지역과 세부지역을 선택하여 그 지역의 도서관 정보를 볼 수 있는 지도와	
 - 선택한 지역에 있는 도서관의 총 갯수를 나타낸 plotly bar차트 표시
 	
-<h4> github를 이용해 ec2서버로 전송하여 백그라운드 실행 자동배포 <h4>
+<h4>▶️ github를 이용해 ec2서버로 전송하여 백그라운드 실행 자동 배포<h4>
 	
 <h5>Visual Studio Code에서 Streamlit 라이브러리로 작업하는 내용을 github에 전송<h5>
 		
