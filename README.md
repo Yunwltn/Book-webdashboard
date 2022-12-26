@@ -17,7 +17,7 @@
 	<br>
 	<h4>
 		
-![11](https://user-images.githubusercontent.com/120348555/209486318-dcc695fe-b4b4-4456-bf65-2fa2980631b9.jpg)
+![literature-3327172_960_720](https://user-images.githubusercontent.com/120348555/209486408-7a474273-1f22-41da-9a03-5bb0801bd394.jpg)
 
 
 👉웹대시보드 주소 <http://ec2-3-38-117-95.ap-northeast-2.compute.amazonaws.com:8501/>
