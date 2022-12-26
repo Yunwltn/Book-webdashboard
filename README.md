@@ -121,7 +121,11 @@
 nohup streamlit run app.py --server.port 8501 --server.runOnSave true &
 ```
 
-<h4> ▶️ AWS의 EC2보안그룹에서 인바운드규칙 편집으로 해당 사이트 포트를 사용 가능하게 지정 <h4>
+<h4> ▶️ AWS 포트 설정 <h4>
+	
+<h5>
+
+- AWS사이트에 접속해 ec2보안그룹 인바운드규칙 설정에서 해당 사이트 포트를 사용 가능하게 지정
 	
 ---
 
