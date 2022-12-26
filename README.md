@@ -111,10 +111,7 @@
 <h5>1. Visual Studio Code에서 Streamlit 라이브러리로 작업하는 내용을 github에 전송<h5>
 		
 - 새로운 레파지토리를 생성해 작업한 내용을 commit, pull하여 저장
-- ec2서버에 자동 배포하기 위한 Github Actions 셋팅
-
-<https://coding-jisu.tistory.com/139>
-	
+- ec2서버에 자동 배포하기 위한 Github Actions 셋팅(https://coding-jisu.tistory.com/139)
 - PuTTY를 실행해 ec2서버에 접속해 터미널 명령어 백그라운드 실행
 	
 ```
