@@ -42,6 +42,8 @@
 		
 [문화 빅데이터 플랫폼 사이트 링크](https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=center_nl_org)
 		
+<https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=center_nl_org>
+		
 </div>	
 <div align=center>
 	<br>
