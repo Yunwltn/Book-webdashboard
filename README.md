@@ -21,6 +21,8 @@
 
 
 [웹 대시보드 바로가기](http://ec2-3-38-117-95.ap-northeast-2.compute.amazonaws.com:8501/)
+		
+<http://ec2-3-38-117-95.ap-northeast-2.compute.amazonaws.com:8501/>
 
 </div>	
 <div align=center> 
@@ -38,7 +40,7 @@
 	<h4> 국립중앙도서관 연간 독서량(2020) <h4>
 	<h4> 국립중앙도서관 도서관 정보(202211) <h4>
 		
-[문화 빅데이터 플랫폼 사이트](https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=center_nl_org)
+[문화 빅데이터 플랫폼 사이트 링크](https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=center_nl_org)
 		
 </div>	
 <div align=center>
