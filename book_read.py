@@ -93,7 +93,7 @@ def run_book_read_app() :
         if my_choice2 != 0 :
             AREA_df = df[['지역','연령','회원수','대출건수']]
             AREA_df = AREA_df.loc[ AREA_df['지역'] == my_choice2 ]
-            st.info(my_choice2 + '의 총 회원 수는' + str(AREA_df['회원수'].sum()) + '명 입니다')
+            st.info(my_choice2 + '의 총 회원 수는 ' + str(AREA_df['회원수'].sum()) + '명 입니다')
             st.dataframe(AREA_df.groupby('연령')[['회원수','대출건수']].sum())
 
 
