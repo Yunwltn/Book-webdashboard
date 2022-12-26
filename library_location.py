@@ -59,4 +59,5 @@ def run_library_location_app() :
     select_AREA = select_AREA.to_frame().reset_index()
 
     fig2 = px.bar(y= select_AREA['index'], x=select_AREA['세부지역'], height=600, title= AREA_choice1 + '의 공공 도서관 갯수(총 ' + str(select_AREA_count) + '개)')
+    fig2.update_layout(yaxis = dict(autorange='reversed'))
     st.plotly_chart(fig2)
