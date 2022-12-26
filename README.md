@@ -110,15 +110,18 @@
 	
 <h4>▶️ github를 이용해 ec2서버로 전송하여 백그라운드 실행 자동 배포<h4>
 	
-<h5>Visual Studio Code에서 Streamlit 라이브러리로 작업하는 내용을 github에 전송<h5>
+<h5><h5>
 		
-- 새로운 레파지토리를 생성해 작업한 내용을 commit, pull하여 저장
-- ec2서버에 자동 배포하기 위한 Github Actions 셋팅(https://coding-jisu.tistory.com/139)
+- 새로운 repository를 생성해 Visual Studio Code에서 Streamlit 라이브러리로 작업하는 내용을 commit, pull하여 저장
+- ec2 서버에 작업한 repository의 HTTP 주소 클론(Clone)
+- ec2 서버에 자동 배포하기 위한 Github Actions 셋팅(https://coding-jisu.tistory.com/139)
 - PuTTY를 실행해 ec2서버에 접속해 터미널에 아래 코드 실행
 	
 ```
 nohup streamlit run app.py --server.port 8501 --server.runOnSave true &
 ```
+
+<h4> ▶️ AWS의 EC2보안그룹에서 인바운드규칙 편집으로 해당 사이트 포트를 사용 가능하게 지정 <h4>
 	
 ---
 
