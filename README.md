@@ -105,7 +105,21 @@
 - 도서관명으로 검색할 수 있는 검색기능 설정(검색시 데이터프레임으로 표시)	
 - 지역과 세부지역을 선택하여 그 지역의 도서관 정보를 볼 수 있는 지도와	
 - 선택한 지역에 있는 도서관의 총 갯수를 나타낸 plotly bar차트 표시
+	
+<h4> github를 이용해 ec2서버로 전송하여 백그라운드 실행 자동배포 <h4>
+	
+<h5>1. Visual Studio Code에서 Streamlit 라이브러리로 작업하는 내용을 github에 전송<h5>
+		
+- 새로운 레파지토리를 생성해 작업한 내용을 commit, pull하여 저장
+- ec2서버에 자동 배포하기 위한 Github Actions 셋팅
 
+<https://coding-jisu.tistory.com/139>
+	
+- PuTTY를 실행해 ec2서버에 접속해 터미널 명령어 백그라운드 실행
+	
+```
+nohup streamlit run app.py --server.port 8501 --server.runOnSave true &
+```
 	
 ---
 
